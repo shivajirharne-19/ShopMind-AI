@@ -1,0 +1,22 @@
+
+product_id,name,category,brand,price,rating,ram_gb,storage_gb,description
+P001,ASUS TUF Gaming F15,Laptop,ASUS,68999,4.4,16,512,Gaming laptop for gaming and demanding tasks
+P002,Lenovo IdeaPad Slim 5,Laptop,Lenovo,62999,4.3,16,512,Lightweight laptop for study and productivity
+P003,HP Pavilion Laptop 15,Laptop,HP,57999,4.1,8,512,Everyday laptop for work and entertainment
+P004,Acer Aspire 7,Laptop,Acer,64999,4.2,16,512,Laptop for productivity and casual gaming
+P005,Dell Inspiron 14,Laptop,Dell,71999,4.3,16,1024,Portable laptop for work and multitasking
+P006,Samsung Galaxy S24,Smartphone,Samsung,59999,4.5,8,256,Premium smartphone for photography and daily use
+P007,Apple iPhone 15,Smartphone,Apple,64999,4.6,6,128,Smartphone for daily use
+P008,OnePlus 12R,Smartphone,OnePlus,42999,4.4,8,256,Smartphone for mobile gaming
+P009,Redmi Note 13,Smartphone,Xiaomi,17999,4.2,8,256,Budget smartphone for everyday tasks
+P010,Google Pixel 8a,Smartphone,Google,39999,4.5,8,128,Smartphone focused on photography
+P011,Sony WH-1000XM5,Headphones,Sony,24990,4.6,,,Wireless headphones with noise cancellation
+P012,boAt Rockerz 550,Headphones,boAt,1999,4.0,,,Budget wireless headphones
+P013,JBL Tune 770NC,Headphones,JBL,5999,4.3,,,Wireless headphones with noise cancellation
+P014,Apple AirPods Pro 2,Earbuds,Apple,24900,4.7,,,Wireless earbuds with noise cancellation
+P015,Realme Buds Air 5,Earbuds,Realme,3299,4.2,,,Wireless earbuds for music and calls
+P016,Apple Watch SE,Smartwatch,Apple,24900,4.4,,,Smartwatch for fitness tracking
+P017,Samsung Galaxy Watch 6,Smartwatch,Samsung,19999,4.3,,,Smartwatch with health features
+P018,Noise ColorFit Pulse 3,Smartwatch,Noise,1499,4.0,,,Budget smartwatch for daily activity
+P019,Samsung Galaxy Tab S9 FE,Tablet,Samsung,36999,4.4,6,128,Tablet for media and productivity
+P020,Lenovo Tab P12,Tablet,Lenovo,26999,4.3,8,128,Tablet for reading and entertainment
