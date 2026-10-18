@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ShopMind AI 🛍️
 
 An AI-powered shopping assistant that combines semantic product search, metadata filtering, and Retrieval-Augmented Generation (RAG) to provide product recommendations grounded in a product dataset.
@@ -168,3 +169,7 @@ Prices and specifications are sample data and are not verified live market infor
 ## Author
 
 Developed as a hands-on project to explore semantic search, RAG, LLM integration, and full-stack AI application development.
+=======
+# ShopMind-AI
+AI-powered shopping assistant using semantic search, RAG, FastAPI, and Groq.
+>>>>>>> 9b14c5b5a47673bc8926661ed8a224b7664102f3
